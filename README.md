@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bilingual (FR/EN) Data Scientist/Engineer with over 5 years of experience transforming data into strategic insights, mainly <br>in the telecommunications sector. Skilled in statistical analysis, predictive modeling, A/B testing, and automating <br>data workflows. Proven ability to experiment, prototype, and recommend innovative analytical approaches to <br>support the growth and maturity of data science capabilities. Strong collaboration, communication, and <br>knowledge-sharing skills across multidisciplinary teams.
+Bilingual (FR/EN) Data Scientist/Engineer with over 5 years of experience transforming data into strategic insights, mainly in the telecommunications sector. Skilled in statistical analysis, predictive modeling, A/B testing, and automating <br>data workflows. Proven ability to experiment, prototype, and recommend innovative analytical approaches to support the growth and maturity of data science capabilities. Strong collaboration, communication, and knowledge-sharing skills across multidisciplinary teams.
 
 
 ## 🌐 Socials:
